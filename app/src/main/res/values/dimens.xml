@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="answerBtn_width">100dp</dimen>
+    <dimen name="answerBtn_height">100dp</dimen>
+    <dimen name="btn_margine">20dp</dimen>
+    <dimen name="layout_margine">30dp</dimen>
+    <dimen name="margine_from_top">70dp</dimen>
+
+
+
+</resources>
